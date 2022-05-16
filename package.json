@@ -1,0 +1,42 @@
+{
+  "name": "express-app-template",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www",
+    "postinstall": "husky install",
+    "prepack": "pinst --disable",
+    "postpack": "pinst --enable",
+    "lint": "eslint . --ext .js",
+    "lint:fix": "eslint . --ext .js --fix",
+    "format": "prettier-eslint public/**/*.js public/**/*.css routes/*.js app.js --write"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "3.3.0",
+    "eslint": "8.15.0",
+    "eslint-config-airbnb-base": "latest",
+    "eslint-plugin-import": "2.26.0",
+    "husky": "8.0.1",
+    "nodemon": "2.0.16",
+    "pinst": "3.0.0",
+    "prettier-eslint-cli": "6.0.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "prepare-commit-msg": "exec < /dev/tty && npx cz --hook || true"
+    }
+  }
+}
