@@ -7,6 +7,11 @@
 
 # Swap the comments on the following lines if you don't wish to use zero-installs
 # Documentation here: https://yarnpkg.com/features/zero-installs
+<<<<<<< HEAD
 !.yarn/cache
 # .pnp.*
+=======
+# !.yarn/cache
+.pnp.*
+>>>>>>> 6e064b2 (chore(gitignore): add node_modules to gitignore)
 node_modules/
