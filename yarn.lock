@@ -1069,11 +1069,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< HEAD
 "cookie-parser@npm:1.4.6":
-=======
-"cookie-parser@npm:~1.4.4":
->>>>>>> 3236926 (revert(yarn): switch back to zero-installs)
   version: 1.4.6
   resolution: "cookie-parser@npm:1.4.6"
   dependencies:
@@ -1199,11 +1195,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< HEAD
 "debug@npm:2.6.9, debug@npm:^2.6.9":
-=======
-"debug@npm:2.6.9, debug@npm:^2.6.9, debug@npm:~2.6.9":
->>>>>>> 3236926 (revert(yarn): switch back to zero-installs)
   version: 2.6.9
   resolution: "debug@npm:2.6.9"
   dependencies:
@@ -1212,11 +1204,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< HEAD
 "debug@npm:4, debug@npm:4.3.4, debug@npm:^4.1.0, debug@npm:^4.1.1, debug@npm:^4.3.2, debug@npm:^4.3.3, debug@npm:^4.3.4":
-=======
-"debug@npm:4, debug@npm:^4.1.0, debug@npm:^4.1.1, debug@npm:^4.3.2, debug@npm:^4.3.3, debug@npm:^4.3.4":
->>>>>>> 3236926 (revert(yarn): switch back to zero-installs)
   version: 4.3.4
   resolution: "debug@npm:4.3.4"
   dependencies:
@@ -1390,11 +1378,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< HEAD
 "ejs@npm:3.1.8":
-=======
-"ejs@npm:~3.1.7":
->>>>>>> 3236926 (revert(yarn): switch back to zero-installs)
   version: 3.1.8
   resolution: "ejs@npm:3.1.8"
   dependencies:
@@ -1792,7 +1776,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "express-app-template@workspace:."
   dependencies:
-<<<<<<< HEAD
     cookie-parser: 1.4.6
     cz-conventional-changelog: 3.3.0
     debug: 4.3.4
@@ -1804,30 +1787,13 @@ __metadata:
     http-errors: 1.6.3
     husky: 8.0.1
     morgan: 1.9.1
-=======
-    cookie-parser: ~1.4.4
-    cz-conventional-changelog: 3.3.0
-    debug: ~2.6.9
-    ejs: ~3.1.7
-    eslint: 8.15.0
-    eslint-config-airbnb-base: latest
-    eslint-plugin-import: 2.26.0
-    express: ~4.16.1
-    http-errors: ~1.6.3
-    husky: 8.0.1
-    morgan: ~1.9.1
->>>>>>> 3236926 (revert(yarn): switch back to zero-installs)
     nodemon: 2.0.16
     pinst: 3.0.0
     prettier-eslint-cli: 6.0.1
   languageName: unknown
   linkType: soft
 
-<<<<<<< HEAD
 "express@npm:4.16.4":
-=======
-"express@npm:~4.16.1":
->>>>>>> 3236926 (revert(yarn): switch back to zero-installs)
   version: 4.16.4
   resolution: "express@npm:4.16.4"
   dependencies:
@@ -3417,11 +3383,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< HEAD
 "morgan@npm:1.9.1":
-=======
-"morgan@npm:~1.9.1":
->>>>>>> 3236926 (revert(yarn): switch back to zero-installs)
   version: 1.9.1
   resolution: "morgan@npm:1.9.1"
   dependencies:
