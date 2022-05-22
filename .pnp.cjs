@@ -43,7 +43,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["express", "npm:4.18.1"],\
             ["http-errors", "npm:2.0.0"],\
             ["husky", "npm:8.0.1"],\
-            ["morgan", "npm:1.9.1"],\
+            ["morgan", "npm:1.10.0"],\
             ["nodemon", "npm:2.0.16"],\
             ["pinst", "npm:3.0.0"],\
             ["prettier-eslint-cli", "npm:6.0.1"]\
@@ -2272,7 +2272,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["express", "npm:4.18.1"],\
             ["http-errors", "npm:2.0.0"],\
             ["husky", "npm:8.0.1"],\
-            ["morgan", "npm:1.9.1"],\
+            ["morgan", "npm:1.10.0"],\
             ["nodemon", "npm:2.0.16"],\
             ["pinst", "npm:3.0.0"],\
             ["prettier-eslint-cli", "npm:6.0.1"]\
@@ -4002,13 +4002,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["morgan", [\
-        ["npm:1.9.1", {\
-          "packageLocation": "./.yarn/cache/morgan-npm-1.9.1-cfe5c59dac-6958432868.zip/node_modules/morgan/",\
+        ["npm:1.10.0", {\
+          "packageLocation": "./.yarn/cache/morgan-npm-1.10.0-a0da109b6b-fb41e226ab.zip/node_modules/morgan/",\
           "packageDependencies": [\
-            ["morgan", "npm:1.9.1"],\
+            ["morgan", "npm:1.10.0"],\
             ["basic-auth", "npm:2.0.1"],\
             ["debug", "virtual:1820eff49a3510f59844b6605d494e2deca1520fa9e3aa7cf6600a27b1172a18c035fa06a11454e24c22ee26b6472ef79ca6bf8d7f3c9067161707279e01bef3#npm:2.6.9"],\
-            ["depd", "npm:1.1.2"],\
+            ["depd", "npm:2.0.0"],\
             ["on-finished", "npm:2.3.0"],\
             ["on-headers", "npm:1.0.2"]\
           ],\
