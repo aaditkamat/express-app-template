@@ -36,7 +36,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["cookie-parser", "npm:1.4.6"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
             ["debug", "virtual:3837a202e2f100c9259f49e0d610856d919fb02a54d6397a0f9765b8b1b52dea715f884a6c583b5fe84dff97ba9428d67e0d0225d3858e9ef42da3d22877f3a2#npm:4.3.4"],\
-            ["ejs", "npm:3.1.8"],\
+            ["ejs", "npm:3.1.10"],\
             ["eslint", "npm:9.7.0"],\
             ["eslint-config-airbnb-base", "virtual:aa328fb788a8ad063cce81c536a4e0bb9e0be753e0026b312ad6d010fdef23e51ea834f0352b344e8ccb9000aade4ffa396b4a1218e3daaaba5c053be2b5c486#npm:15.0.0"],\
             ["eslint-plugin-import", "virtual:aa328fb788a8ad063cce81c536a4e0bb9e0be753e0026b312ad6d010fdef23e51ea834f0352b344e8ccb9000aade4ffa396b4a1218e3daaaba5c053be2b5c486#npm:2.26.0"],\
@@ -1869,10 +1869,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["ejs", [\
-        ["npm:3.1.8", {\
-          "packageLocation": "./.yarn/cache/ejs-npm-3.1.8-30583753fc-1d40d198ad.zip/node_modules/ejs/",\
+        ["npm:3.1.10", {\
+          "packageLocation": "./.yarn/cache/ejs-npm-3.1.10-4e8cf4bdc1-ce90637e9c.zip/node_modules/ejs/",\
           "packageDependencies": [\
-            ["ejs", "npm:3.1.8"],\
+            ["ejs", "npm:3.1.10"],\
             ["jake", "npm:10.8.5"]\
           ],\
           "linkType": "HARD"\
@@ -2441,7 +2441,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["cookie-parser", "npm:1.4.6"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
             ["debug", "virtual:3837a202e2f100c9259f49e0d610856d919fb02a54d6397a0f9765b8b1b52dea715f884a6c583b5fe84dff97ba9428d67e0d0225d3858e9ef42da3d22877f3a2#npm:4.3.4"],\
-            ["ejs", "npm:3.1.8"],\
+            ["ejs", "npm:3.1.10"],\
             ["eslint", "npm:9.7.0"],\
             ["eslint-config-airbnb-base", "virtual:aa328fb788a8ad063cce81c536a4e0bb9e0be753e0026b312ad6d010fdef23e51ea834f0352b344e8ccb9000aade4ffa396b4a1218e3daaaba5c053be2b5c486#npm:15.0.0"],\
             ["eslint-plugin-import", "virtual:aa328fb788a8ad063cce81c536a4e0bb9e0be753e0026b312ad6d010fdef23e51ea834f0352b344e8ccb9000aade4ffa396b4a1218e3daaaba5c053be2b5c486#npm:2.26.0"],\
