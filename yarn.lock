@@ -1944,7 +1944,7 @@ __metadata:
     eslint-plugin-import: 2.26.0
     express: 4.18.1
     http-errors: 2.0.0
-    husky: 8.0.1
+    husky: 9.1.4
     morgan: 1.10.0
     nodemon: 2.0.18
     pinst: 3.0.0
@@ -2662,12 +2662,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"husky@npm:8.0.1":
-  version: 8.0.1
-  resolution: "husky@npm:8.0.1"
+"husky@npm:9.1.4":
+  version: 9.1.4
+  resolution: "husky@npm:9.1.4"
   bin:
-    husky: lib/bin.js
-  checksum: 943a73a13d0201318fd30e83d299bb81d866bd245b69e6277804c3b462638dc1921694cb94c2b8c920a4a187060f7d6058d3365152865406352e934c5fff70dc
+    husky: bin.js
+  checksum: 7608a6dfac264876a2ff37f2db8520e0f9f0ea2b810a9ca151548327e9eca0b7ed58a63e0a208d20d3f43b191d8f111edcab46c3c8132c95e10ef7bd7115ee9b
   languageName: node
   linkType: hard
 
