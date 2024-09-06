@@ -35,7 +35,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["cookie-parser", "npm:1.4.6"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
-            ["debug", "virtual:3837a202e2f100c9259f49e0d610856d919fb02a54d6397a0f9765b8b1b52dea715f884a6c583b5fe84dff97ba9428d67e0d0225d3858e9ef42da3d22877f3a2#npm:4.3.4"],\
+            ["debug", "virtual:aa328fb788a8ad063cce81c536a4e0bb9e0be753e0026b312ad6d010fdef23e51ea834f0352b344e8ccb9000aade4ffa396b4a1218e3daaaba5c053be2b5c486#npm:4.3.7"],\
             ["ejs", "npm:3.1.8"],\
             ["eslint", "npm:9.7.0"],\
             ["eslint-config-airbnb-base", "virtual:aa328fb788a8ad063cce81c536a4e0bb9e0be753e0026b312ad6d010fdef23e51ea834f0352b344e8ccb9000aade4ffa396b4a1218e3daaaba5c053be2b5c486#npm:15.0.0"],\
@@ -1605,6 +1605,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
+        ["npm:4.3.7", {\
+          "packageLocation": "./.yarn/cache/debug-npm-4.3.7-385645adf9-822d74e209.zip/node_modules/debug/",\
+          "packageDependencies": [\
+            ["debug", "npm:4.3.7"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
         ["virtual:1820eff49a3510f59844b6605d494e2deca1520fa9e3aa7cf6600a27b1172a18c035fa06a11454e24c22ee26b6472ef79ca6bf8d7f3c9067161707279e01bef3#npm:2.6.9", {\
           "packageLocation": "./.yarn/__virtual__/debug-virtual-e67ff7b3fa/0/cache/debug-npm-2.6.9-7d4cb597dc-d2f51589ca.zip/node_modules/debug/",\
           "packageDependencies": [\
@@ -1639,6 +1646,20 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["debug", "virtual:485771d54e1d310d53ef6ab7674af49094a5dcdd62440336a8cfc115c7eec6b24841ab056b84c717b41d3d1d4affb178233af76c3d8c35ecba07f4c4494f7c6e#npm:4.3.5"],\
             ["@types/supports-color", null],\
             ["ms", "npm:2.1.2"],\
+            ["supports-color", null]\
+          ],\
+          "packagePeers": [\
+            "@types/supports-color",\
+            "supports-color"\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["virtual:aa328fb788a8ad063cce81c536a4e0bb9e0be753e0026b312ad6d010fdef23e51ea834f0352b344e8ccb9000aade4ffa396b4a1218e3daaaba5c053be2b5c486#npm:4.3.7", {\
+          "packageLocation": "./.yarn/__virtual__/debug-virtual-8caf3c13cb/0/cache/debug-npm-4.3.7-385645adf9-822d74e209.zip/node_modules/debug/",\
+          "packageDependencies": [\
+            ["debug", "virtual:aa328fb788a8ad063cce81c536a4e0bb9e0be753e0026b312ad6d010fdef23e51ea834f0352b344e8ccb9000aade4ffa396b4a1218e3daaaba5c053be2b5c486#npm:4.3.7"],\
+            ["@types/supports-color", null],\
+            ["ms", "npm:2.1.3"],\
             ["supports-color", null]\
           ],\
           "packagePeers": [\
@@ -2440,7 +2461,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["express-app-template", "workspace:."],\
             ["cookie-parser", "npm:1.4.6"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
-            ["debug", "virtual:3837a202e2f100c9259f49e0d610856d919fb02a54d6397a0f9765b8b1b52dea715f884a6c583b5fe84dff97ba9428d67e0d0225d3858e9ef42da3d22877f3a2#npm:4.3.4"],\
+            ["debug", "virtual:aa328fb788a8ad063cce81c536a4e0bb9e0be753e0026b312ad6d010fdef23e51ea834f0352b344e8ccb9000aade4ffa396b4a1218e3daaaba5c053be2b5c486#npm:4.3.7"],\
             ["ejs", "npm:3.1.8"],\
             ["eslint", "npm:9.7.0"],\
             ["eslint-config-airbnb-base", "virtual:aa328fb788a8ad063cce81c536a4e0bb9e0be753e0026b312ad6d010fdef23e51ea834f0352b344e8ccb9000aade4ffa396b4a1218e3daaaba5c053be2b5c486#npm:15.0.0"],\
