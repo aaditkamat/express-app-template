@@ -42,7 +42,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-import", "virtual:aa328fb788a8ad063cce81c536a4e0bb9e0be753e0026b312ad6d010fdef23e51ea834f0352b344e8ccb9000aade4ffa396b4a1218e3daaaba5c053be2b5c486#npm:2.26.0"],\
             ["express", "npm:4.18.1"],\
             ["http-errors", "npm:2.0.0"],\
-            ["husky", "npm:8.0.1"],\
+            ["husky", "npm:9.1.6"],\
             ["morgan", "npm:1.10.0"],\
             ["nodemon", "npm:2.0.18"],\
             ["pinst", "npm:3.0.0"],\
@@ -2447,7 +2447,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-import", "virtual:aa328fb788a8ad063cce81c536a4e0bb9e0be753e0026b312ad6d010fdef23e51ea834f0352b344e8ccb9000aade4ffa396b4a1218e3daaaba5c053be2b5c486#npm:2.26.0"],\
             ["express", "npm:4.18.1"],\
             ["http-errors", "npm:2.0.0"],\
-            ["husky", "npm:8.0.1"],\
+            ["husky", "npm:9.1.6"],\
             ["morgan", "npm:1.10.0"],\
             ["nodemon", "npm:2.0.18"],\
             ["pinst", "npm:3.0.0"],\
@@ -3187,10 +3187,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["husky", [\
-        ["npm:8.0.1", {\
-          "packageLocation": "./.yarn/cache/husky-npm-8.0.1-85fede8470-943a73a13d.zip/node_modules/husky/",\
+        ["npm:9.1.6", {\
+          "packageLocation": "./.yarn/cache/husky-npm-9.1.6-f05821288d-421ccd8850.zip/node_modules/husky/",\
           "packageDependencies": [\
-            ["husky", "npm:8.0.1"]\
+            ["husky", "npm:9.1.6"]\
           ],\
           "linkType": "HARD"\
         }]\
